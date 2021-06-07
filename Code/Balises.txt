@@ -1,0 +1,15 @@
+justify-content : Alligne les éléments flex selon l'axe principal
+
+align-items : Alligne les éléments flex selon l'axe transversal
+
+flex-direction : Définir la direction de l'axe principal
+
+order : Sépcifie L'odre de l'élément flex
+
+align-self : Alligne un élément flex selon l'axe transversal, outrepassant la valeur de align-item
+
+flex-wrap : Spécifie si les éléments flex sont forcés a être sur une seule ligne ou peuvent être enveloppés sur plusieurs lignes
+
+flex-flow : Raccourci pour flex-direction et flex-wrap
+
+align-content : Alligne les lignes d'un conteneur flex à l'intérieux du contenenur flex quand il y a de l'espace superflu sur l'axe transversal
